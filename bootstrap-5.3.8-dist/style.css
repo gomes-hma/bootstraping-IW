@@ -1,5 +1,5 @@
-.logo1 {
-width: 30%;
+.logo1{
+width: 8%;
 margin: 0;
 box-shadow: none;
 }
@@ -7,3 +7,27 @@ box-shadow: none;
 .fonte {
     font-size:150% ;
 }
+
+.eteco{
+    padding:10px;
+    width:70%;
+    border-radius: 15px;
+}
+
+.aks{
+    color: #121619 ;
+    background-color: #032c2c;
+}
+
+.aks2{
+    color: #121619;
+    background-color: #368f8b;
+
+}
+
+body {
+    background-color: #c3a995;
+}
+
+
+    
