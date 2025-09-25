@@ -26,8 +26,38 @@ box-shadow: none;
 }
 
 body {
-    background-color: #c3a995;
+    background-color: #368f8b;
 }
 
+.lb{
+    color: white;
 
+}
+
+.imgl{
+    width: 100%;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.pd{
+    padding-top: 6px;
+}
+
+.br{
+    border-radius:8px ;
+}
+
+.algm{
+    position: sticky;
+    top: 0;
+}
+
+.pdt{
+    padding-top: 65px;
+}
+
+.z-1000 {
+    z-index: 1000;
+}
     
